@@ -1,4 +1,4 @@
-name: Mon premier CI
+﻿name: Mon premier CI
 
 on:
   push:
